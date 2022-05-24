@@ -2,7 +2,7 @@ body{
     background: center url(sprite.PNG);
     background-size: cover;
 }
-.a{
+.class1{
     color: white;
     font-size: 60px;
 }
